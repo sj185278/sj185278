@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Summved @sj185278
 - 👀 I’m interested in learning new technologies and contribute to other's learning 
-- 🌱 I’m currently learning different things including Cloud Security, Terraform and other DevOps technologies
+- 🌱 I’m currently learning different things including Network Security, Terraform and other DevOps technologies
 - 💞️ I’m looking to collaborate on anything that comes around tech. I dont know everything but I know that I can get the things done
 - 📫 How to reach me ... Reach me on Slack / Teams / Mail, whatever comfortable
 
